@@ -1,0 +1,18 @@
+﻿  kik.c
+c:\users\marci\desktop\programy w c\gra kółko i krzyżyk 2.0(wersja do dystybucji)\gra kółko i krzyżyk 2\kik.c(118): warning C4013: niezdefiniowany "koniecy"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\programy w c\gra kółko i krzyżyk 2.0(wersja do dystybucji)\gra kółko i krzyżyk 2\kik.c(121): warning C4013: niezdefiniowany "system"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\programy w c\gra kółko i krzyżyk 2.0(wersja do dystybucji)\gra kółko i krzyżyk 2\kik.c(138): warning C4013: niezdefiniowany "koniecx"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\programy w c\gra kółko i krzyżyk 2.0(wersja do dystybucji)\gra kółko i krzyżyk 2\kik.c(163): warning C4473: „scanf_s”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+  c:\users\marci\desktop\programy w c\gra kółko i krzyżyk 2.0(wersja do dystybucji)\gra kółko i krzyżyk 2\kik.c(163): note: symbole zastępcze i ich parametry oczekują 2 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+  c:\users\marci\desktop\programy w c\gra kółko i krzyżyk 2.0(wersja do dystybucji)\gra kółko i krzyżyk 2\kik.c(163): note: brakujący argument 2 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%c”
+  c:\users\marci\desktop\programy w c\gra kółko i krzyżyk 2.0(wersja do dystybucji)\gra kółko i krzyżyk 2\kik.c(163): note: ten argument jest używany jako rozmiar bufora
+c:\users\marci\desktop\programy w c\gra kółko i krzyżyk 2.0(wersja do dystybucji)\gra kółko i krzyżyk 2\kik.c(166): warning C4013: niezdefiniowany "exit"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\programy w c\gra kółko i krzyżyk 2.0(wersja do dystybucji)\gra kółko i krzyżyk 2\kik.c(199): warning C4473: „scanf_s”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+  c:\users\marci\desktop\programy w c\gra kółko i krzyżyk 2.0(wersja do dystybucji)\gra kółko i krzyżyk 2\kik.c(199): note: symbole zastępcze i ich parametry oczekują 2 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+  c:\users\marci\desktop\programy w c\gra kółko i krzyżyk 2.0(wersja do dystybucji)\gra kółko i krzyżyk 2\kik.c(199): note: brakujący argument 2 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%c”
+  c:\users\marci\desktop\programy w c\gra kółko i krzyżyk 2.0(wersja do dystybucji)\gra kółko i krzyżyk 2\kik.c(199): note: ten argument jest używany jako rozmiar bufora
+c:\users\marci\desktop\programy w c\gra kółko i krzyżyk 2.0(wersja do dystybucji)\gra kółko i krzyżyk 2\kik.c(135): warning C4716: "graX": musi zwracać wartość
+c:\users\marci\desktop\programy w c\gra kółko i krzyżyk 2.0(wersja do dystybucji)\gra kółko i krzyżyk 2\kik.c(155): warning C4716: "graO": musi zwracać wartość
+c:\users\marci\desktop\programy w c\gra kółko i krzyżyk 2.0(wersja do dystybucji)\gra kółko i krzyżyk 2\kik.c(191): warning C4716: "koniecx": musi zwracać wartość
+c:\users\marci\desktop\programy w c\gra kółko i krzyżyk 2.0(wersja do dystybucji)\gra kółko i krzyżyk 2\kik.c(227): warning C4716: "koniecy": musi zwracać wartość
+  Gra kółko i krzyżyk 2.vcxproj -> C:\Users\marci\Desktop\Programy w C\Gra kółko i krzyżyk 2.0(wersja do dystybucji)\Debug\Gra kółko i krzyżyk 2.exe

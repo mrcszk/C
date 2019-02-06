@@ -1,0 +1,4 @@
+﻿  łańcuchy.c
+c:\users\marci\desktop\programy w c\wczytywanie łańcuchów\wczytywanie łańcuchów\łańcuchy.c(19): warning C4047: "funkcja": "char *" różni się w poziomach operatorów pośrednich od "char (*)[50]"
+c:\users\marci\desktop\programy w c\wczytywanie łańcuchów\wczytywanie łańcuchów\łańcuchy.c(19): warning C4024: "wczyt": różne typy dla formalnego i rzeczywistego parametru 1
+  Wczytywanie łańcuchów.vcxproj -> C:\Users\marci\Desktop\Programy w C\Wczytywanie łańcuchów\Debug\Wczytywanie łańcuchów.exe

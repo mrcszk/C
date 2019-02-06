@@ -1,0 +1,6 @@
+﻿  daneos.c
+c:\users\marci\desktop\sprawdzian c\dane osobowe\dane osobowe\daneos.c(29): warning C4013: niezdefiniowany "malloc"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\sprawdzian c\dane osobowe\dane osobowe\daneos.c(35): warning C4013: niezdefiniowany "strlen"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\sprawdzian c\dane osobowe\dane osobowe\daneos.c(36): warning C4013: niezdefiniowany "strcpy"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\sprawdzian c\dane osobowe\dane osobowe\daneos.c(135): warning C4013: niezdefiniowany "free"; przy założeniu, że extern zwraca int
+  Dane osobowe.vcxproj -> C:\Users\marci\Desktop\Sprawdzian C\Dane osobowe\Debug\Dane osobowe.exe

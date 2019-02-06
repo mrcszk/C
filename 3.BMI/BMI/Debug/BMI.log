@@ -1,0 +1,3 @@
+﻿  bmi.c
+c:\users\marci\desktop\programy w c\bmi\bmi\bmi.c(5): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u0119" nie może być przedstawiony w bieżącej stronie kodowej (1252)
+  BMI.vcxproj -> C:\Users\marci\Desktop\Programy w C\BMI\Debug\BMI.exe

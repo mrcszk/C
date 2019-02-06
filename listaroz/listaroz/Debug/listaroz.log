@@ -1,0 +1,56 @@
+﻿  lista.c
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(15): error C2061: błąd składniowy: identyfikator „ConstDataFp”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(16): error C2061: błąd składniowy: identyfikator „freeData”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(16): error C2059: błąd składniowy: „;”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(17): error C2061: błąd składniowy: identyfikator „compareData”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(17): error C2059: błąd składniowy: „;”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(18): error C2059: błąd składniowy: „}”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(20): error C2143: błąd składniowy: brakuje „)” przed „*”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(20): error C2143: błąd składniowy: brakuje „{” przed „*”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(20): error C2059: błąd składniowy: „)”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(21): error C2054: oczekiwano "(" postępuj zgodnie z "list"
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(29): error C2143: błąd składniowy: brakuje „)” przed „*”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(29): error C2143: błąd składniowy: brakuje „{” przed „*”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(29): error C2059: błąd składniowy: „)”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(30): error C2054: oczekiwano "(" postępuj zgodnie z "list"
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(44): error C2143: błąd składniowy: brakuje „)” przed „*”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(44): error C2143: błąd składniowy: brakuje „{” przed „*”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(44): error C2059: błąd składniowy: „)”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(45): error C2054: oczekiwano "(" postępuj zgodnie z "list"
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(54): error C2143: błąd składniowy: brakuje „)” przed „*”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(54): error C2143: błąd składniowy: brakuje „{” przed „*”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(54): error C2371: "ListElement": zmiana definicji; różne typy podstawowe
+  c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(9): note: zobacz deklarację „ListElement”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(54): error C2143: błąd składniowy: brakuje „;” przed „*”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(54): error C2059: błąd składniowy: „)”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(55): error C2054: oczekiwano "(" postępuj zgodnie z "element"
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(64): error C2143: błąd składniowy: brakuje „)” przed „*”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(64): error C2143: błąd składniowy: brakuje „{” przed „*”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(64): error C2059: błąd składniowy: „typ”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(64): error C2059: błąd składniowy: „)”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(91): error C2143: błąd składniowy: brakuje „)” przed „*”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(91): error C2143: błąd składniowy: brakuje „{” przed „*”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(91): error C2059: błąd składniowy: „)”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(92): error C2054: oczekiwano "(" postępuj zgodnie z "list"
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(103): warning C4477: „printf”: ciąg formatu „%s” wymaga argumentu typu „char *”, ale argument 1 ze zmienną liczbą argumentów ma typ „const void *”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(107): error C2065: "List": niezadeklarowany identyfikator
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(107): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „list”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(108): warning C4013: niezdefiniowany "init"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(109): error C2224: po lewej ".dumpData" musi być typ struct/union
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(110): warning C4013: niezdefiniowany "add"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(115): warning C4013: niezdefiniowany "dumpList"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(116): warning C4013: niezdefiniowany "freeList"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(120): warning C4013: niezdefiniowany "stricmp"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(124): error C2065: "List": niezadeklarowany identyfikator
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(124): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „list”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(126): error C2224: po lewej ".dumpData" musi być typ struct/union
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(127): error C2224: po lewej ".compareData" musi być typ struct/union
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(137): warning C4013: niezdefiniowany "free"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(141): error C2065: "List": niezadeklarowany identyfikator
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(141): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „list”
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(143): error C2224: po lewej ".dumpData" musi być typ struct/union
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(144): error C2224: po lewej ".compareData" musi być typ struct/union
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(145): error C2224: po lewej ".freeData" musi być typ struct/union
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(147): warning C4013: niezdefiniowany "srand"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(150): warning C4013: niezdefiniowany "rand"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\sprawdzian c\listaroz\listaroz\lista.c(151): warning C4013: niezdefiniowany "strdup"; przy założeniu, że extern zwraca int

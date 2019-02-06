@@ -1,0 +1,14 @@
+﻿  lista.c
+c:\users\marci\desktop\sprawdzian c\spis pracownikow\spis pracownikow\lista.c(46): warning C4047: "funkcja": "char" różni się w poziomach operatorów pośrednich od "char (*)[30]"
+c:\users\marci\desktop\sprawdzian c\spis pracownikow\spis pracownikow\lista.c(46): warning C4024: "addElement": różne typy dla formalnego i rzeczywistego parametru 2
+c:\users\marci\desktop\sprawdzian c\spis pracownikow\spis pracownikow\lista.c(40): warning C4101: "word": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\marci\desktop\sprawdzian c\spis pracownikow\spis pracownikow\lista.c(65): warning C4028: formalny parametr 2 różni się od deklaracji
+c:\users\marci\desktop\sprawdzian c\spis pracownikow\spis pracownikow\lista.c(68): warning C4013: niezdefiniowany "strlen"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\sprawdzian c\spis pracownikow\spis pracownikow\lista.c(69): warning C4013: niezdefiniowany "strcpy"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\sprawdzian c\spis pracownikow\spis pracownikow\lista.c(70): warning C4047: "funkcja": "char" różni się w poziomach operatorów pośrednich od "char *"
+c:\users\marci\desktop\sprawdzian c\spis pracownikow\spis pracownikow\lista.c(70): warning C4024: "makeNode": różne typy dla formalnego i rzeczywistego parametru 1
+c:\users\marci\desktop\sprawdzian c\spis pracownikow\spis pracownikow\lista.c(87): warning C4098: "printList": funkcja "void" zwraca wartość
+c:\users\marci\desktop\sprawdzian c\spis pracownikow\spis pracownikow\lista.c(101): warning C4098: "ile": funkcja "void" zwraca wartość
+c:\users\marci\desktop\sprawdzian c\spis pracownikow\spis pracownikow\lista.c(116): warning C4047: "=": "char *" różni się w poziomach operatorów pośrednich od "char"
+c:\users\marci\desktop\sprawdzian c\spis pracownikow\spis pracownikow\lista.c(141): warning C4047: "==": "char *" różni się w poziomach operatorów pośrednich od "int"
+  Spis pracownikow.vcxproj -> C:\Users\marci\Desktop\Sprawdzian C\Spis pracownikow\Debug\Spis pracownikow.exe

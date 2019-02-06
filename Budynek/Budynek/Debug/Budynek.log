@@ -1,0 +1,30 @@
+﻿  budynek.c
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(69): warning C4020: "addElement": zbyt wiele parametrów rzeczywistych
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(76): warning C4047: "funkcja": "int *" różni się w poziomach operatorów pośrednich od "int"
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(76): warning C4024: "addElementb": różne typy dla formalnego i rzeczywistego parametru 2
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(84): warning C4047: "funkcja": "char" różni się w poziomach operatorów pośrednich od "char *"
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(84): warning C4024: "wpisywanie": różne typy dla formalnego i rzeczywistego parametru 1
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(86): warning C4133: "funkcja": niezgodne typy - od "list_b *" do "list_t *"
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(86): warning C4020: "czas": zbyt wiele parametrów rzeczywistych
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(91): warning C4020: "addElement": zbyt wiele parametrów rzeczywistych
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(96): warning C4133: "funkcja": niezgodne typy - od "list_b *" do "list_t *"
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(96): warning C4020: "czas": zbyt wiele parametrów rzeczywistych
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(123): warning C4133: "=": niezgodne typy - od "node *" do "node_b *"
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(133): warning C4028: formalny parametr 1 różni się od deklaracji
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(133): warning C4029: zadeklarowana formalna lista parametrów różniąca się od definicji
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(138): warning C4047: "funkcja": "int *" różni się w poziomach operatorów pośrednich od "int"
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(138): warning C4024: "addElementb": różne typy dla formalnego i rzeczywistego parametru 2
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(141): warning C4028: formalny parametr 1 różni się od deklaracji
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(152): warning C4029: zadeklarowana formalna lista parametrów różniąca się od definicji
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(153): warning C4087: "makeNode": zadeklarowano z listą parametrów "void"
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(167): warning C4028: formalny parametr 2 różni się od deklaracji
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(175): warning C4133: "=": niezgodne typy - od "node_b *" do "node *"
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(176): warning C4133: "=": niezgodne typy - od "node_b *" do "node *"
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(189): warning C4027: funkcja zadeklarowana bez formalnej listy parametrów
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(214): warning C4098: "printList": funkcja "void" zwraca wartość
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(229): warning C4098: "printListb": funkcja "void" zwraca wartość
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(232): warning C4133: "=": niezgodne typy - od "node *" do "node_b *"
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(270): warning C4133: "=": niezgodne typy - od "node *" do "node_b *"
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(262): warning C4715: "removeSpecified”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\marci\desktop\sprawdzian c\budynek\budynek\budynek.c(277): warning C4715: "removeSpecifiedb”: niewszystkie ścieżki kodu zwracają wartość
+  Budynek.vcxproj -> C:\Users\marci\Desktop\Sprawdzian C\Budynek\Debug\Budynek.exe

@@ -1,0 +1,3 @@
+﻿  Samochody.c
+c:\users\marci\desktop\programy w c\samochody\samochody\samochody.c(14): warning C4047: "=": "char" różni się w poziomach operatorów pośrednich od "char [7]"
+  Samochody.vcxproj -> C:\Users\marci\Desktop\Programy w C\Samochody\Debug\Samochody.exe

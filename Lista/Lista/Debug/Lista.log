@@ -1,0 +1,7 @@
+﻿  lista.c
+c:\users\marci\desktop\programy w c\lista\lista\lista.c(22): warning C4047: "=": "int" różni się w poziomach operatorów pośrednich od "int *"
+c:\users\marci\desktop\programy w c\lista\lista\lista.c(27): error C2037: pozostałe z "head" określają niezdefiniowaną strukturę/związek "List"
+c:\users\marci\desktop\programy w c\lista\lista\lista.c(30): error C2037: pozostałe z "next" określają niezdefiniowaną strukturę/związek "ListElement"
+c:\users\marci\desktop\programy w c\lista\lista\lista.c(75): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u0144" nie może być przedstawiony w bieżącej stronie kodowej (1252)
+c:\users\marci\desktop\programy w c\lista\lista\lista.c(95): warning C4047: "funkcja": "int *" różni się w poziomach operatorów pośrednich od "int"
+c:\users\marci\desktop\programy w c\lista\lista\lista.c(95): warning C4024: "dodaj": różne typy dla formalnego i rzeczywistego parametru 2

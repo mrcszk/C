@@ -1,0 +1,29 @@
+﻿  filmy.c
+c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(10): error C2143: błąd składniowy: brakuje „;” przed „?”
+c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(10): error C2059: błąd składniowy: „?”
+c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(12): error C2059: błąd składniowy: „}”
+c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(18): error C2079: "pozycja" używa niezdefiniowanego struct "film"
+c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(64): error C2079: "tymcz" używa niezdefiniowanego struct "film"
+c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(72): warning C4013: niezdefiniowany "gets"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(72): error C2224: po lewej ".tytu" musi być typ struct/union
+c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(72): error C2059: błąd składniowy: „)”
+c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(75): error C2224: po lewej ".ocena" musi być typ struct/union
+c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(75): warning C4473: „scanf”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+  c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(75): note: symbole zastępcze i ich parametry oczekują 1 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 0
+  c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(75): note: brakujący argument 1 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%d”
+c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(78): error C2440: "funkcja": nie można konwertować z "int" na "Pozycja"
+c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(78): warning C4024: "DodajPozycje": różne typy dla formalnego i rzeczywistego parametru 1
+c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(90): error C2059: błąd składniowy: „if”
+c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(93): error C2059: błąd składniowy: „else”
+c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(98): error C2143: błąd składniowy: brakuje „)” przed „ciąg”
+c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(98): error C2143: błąd składniowy: brakuje „{” przed „ciąg”
+c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(98): error C2059: błąd składniowy: „ciąg”
+c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(98): error C2059: błąd składniowy: „)”
+c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(99): warning C4273: "getchar": niespójne powiązanie biblioteki dll
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(306): note: zobacz poprzednią definicję „getchar”
+c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(101): error C2059: błąd składniowy: „return”
+c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(102): error C2059: błąd składniowy: „}”
+c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(118): warning C4047: "==": "int" różni się w poziomach operatorów pośrednich od "void *"
+c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(173): error C2440: "funkcja": nie można konwertować z "int" na "Pozycja"
+c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(173): warning C4024: "wfun": różne typy dla formalnego i rzeczywistego parametru 1
+c:\users\marci\desktop\programy w c\lista filmów prata\lista filmów prata\filmy.c(180): error C2440: "=": nie można konwertować z "Pozycja" na "int"

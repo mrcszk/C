@@ -1,0 +1,6 @@
+﻿  lista2.c
+c:\users\marci\desktop\sprawdzian c\lista poprawa\lista poprawa\lista2.c(26): warning C4013: niezdefiniowany "malloc"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\sprawdzian c\lista poprawa\lista poprawa\lista2.c(30): warning C4013: niezdefiniowany "strlen"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\sprawdzian c\lista poprawa\lista poprawa\lista2.c(31): warning C4013: niezdefiniowany "strcpy"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\sprawdzian c\lista poprawa\lista poprawa\lista2.c(67): warning C4013: niezdefiniowany "free"; przy założeniu, że extern zwraca int
+  Lista poprawa.vcxproj -> C:\Users\marci\Desktop\Sprawdzian C\Lista poprawa\Debug\Lista poprawa.exe

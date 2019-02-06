@@ -1,0 +1,8 @@
+﻿  krzyżówka.c
+c:\users\marci\desktop\programy w c\krzyżówka\krzyżówka\krzyżówka.c(9): warning C4244: "funkcja": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\marci\desktop\programy w c\krzyżówka\krzyżówka\krzyżówka.c(53): warning C4013: niezdefiniowany "strlen"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\programy w c\krzyżówka\krzyżówka\krzyżówka.c(23): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: zobacz deklarację „fopen”
+c:\users\marci\desktop\programy w c\krzyżówka\krzyżówka\krzyżówka.c(52): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: zobacz deklarację „fscanf”
+c:\users\marci\desktop\programy w c\krzyżówka\krzyżówka\krzyżówka.c(17): warning C4101: "wyraz": lokalna zmienna, do której nie istnieje odwołanie

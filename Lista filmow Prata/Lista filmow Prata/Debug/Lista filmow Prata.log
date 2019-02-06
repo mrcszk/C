@@ -1,0 +1,5 @@
+﻿  lista.c
+c:\users\marci\desktop\programy w c\lista filmow prata\lista filmow prata\lista.c(72): warning C4013: niezdefiniowany "gets"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\programy w c\lista filmow prata\lista filmow prata\lista.c(72): warning C4047: "!=": "int" różni się w poziomach operatorów pośrednich od "void *"
+c:\users\marci\desktop\programy w c\lista filmow prata\lista filmow prata\lista.c(118): warning C4047: "==": "int" różni się w poziomach operatorów pośrednich od "void *"
+  Lista filmow Prata.vcxproj -> C:\Users\marci\Desktop\Programy w C\Lista filmow Prata\Debug\Lista filmow Prata.exe

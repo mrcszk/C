@@ -1,0 +1,5 @@
+﻿  książki.c
+c:\users\marci\desktop\programy w c\katalog książek\katalog książek\książki.c(21): warning C4013: niezdefiniowany "gets"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\programy w c\katalog książek\katalog książek\książki.c(21): warning C4047: "!=": "int" różni się w poziomach operatorów pośrednich od "void *"
+c:\users\marci\desktop\programy w c\katalog książek\katalog książek\książki.c(33): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u0142" nie może być przedstawiony w bieżącej stronie kodowej (1252)
+  Katalog książek.vcxproj -> C:\Users\marci\Desktop\Programy w C\Katalog książek\Debug\Katalog książek.exe

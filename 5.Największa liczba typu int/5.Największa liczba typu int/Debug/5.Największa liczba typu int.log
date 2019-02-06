@@ -1,0 +1,4 @@
+﻿  int.c
+c:\users\marci\desktop\programy w c\5.największa liczba typu int\5.największa liczba typu int\int.c(12): warning C4013: niezdefiniowany "printf"; przy założeniu, że extern zwraca int
+int.obj : error LNK2019: nierozpoznany zewnętrzny symbol _printf przywołany w funkcji _main
+C:\Users\marci\Desktop\Programy w C\5.Największa liczba typu int\Debug\5.Największa liczba typu int.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1

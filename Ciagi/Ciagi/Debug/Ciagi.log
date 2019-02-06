@@ -1,0 +1,6 @@
+﻿  ciagi.c
+c:\users\marci\desktop\sprawdzian c\ciagi\ciagi\ciagi.c(36): warning C4013: niezdefiniowany "malloc"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\sprawdzian c\ciagi\ciagi\ciagi.c(37): warning C4101: "j": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\marci\desktop\sprawdzian c\ciagi\ciagi\ciagi.c(77): warning C4101: "y": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\marci\desktop\sprawdzian c\ciagi\ciagi\ciagi.c(77): warning C4101: "j": lokalna zmienna, do której nie istnieje odwołanie
+  Ciagi.vcxproj -> C:\Users\marci\Desktop\Sprawdzian C\Ciagi\Debug\Ciagi.exe

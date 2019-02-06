@@ -1,0 +1,4 @@
+﻿  tab.c
+c:\users\marci\desktop\programy w c\tabliczka\tabliczka\tab.c(8): warning C4013: niezdefiniowany "malloc"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\programy w c\tabliczka\tabliczka\tab.c(23): warning C4013: niezdefiniowany "free"; przy założeniu, że extern zwraca int
+  tabliczka.vcxproj -> C:\Users\marci\Desktop\Programy w C\tabliczka\Debug\tabliczka.exe

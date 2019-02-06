@@ -1,0 +1,4 @@
+﻿  krzy.c
+c:\users\marci\desktop\programy w c\pusty szablon\pusty szablon\krzy.c(22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\marci\desktop\programy w c\pusty szablon\pusty szablon\krzy.c(71): warning C4244: "funkcja": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Pusty szablon.vcxproj -> C:\Users\marci\Desktop\Programy w C\Pusty szablon\Debug\Pusty szablon.exe
