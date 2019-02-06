@@ -1,0 +1,4 @@
+﻿  gra.c
+c:\users\marci\desktop\programy w c\6.kółko i krzyżyk gra\6.kółko i krzyżyk gra\gra.c(130): warning C4013: niezdefiniowany "system"; przy założeniu, że extern zwraca int
+c:\users\marci\desktop\programy w c\6.kółko i krzyżyk gra\6.kółko i krzyżyk gra\gra.c(120): warning C4715: "koniec”: niewszystkie ścieżki kodu zwracają wartość
+  6.Kółko i krzyżyk gra.vcxproj -> C:\Users\marci\Desktop\Programy w C\6.Kółko i krzyżyk gra\Debug\6.Kółko i krzyżyk gra.exe
